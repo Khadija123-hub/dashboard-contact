@@ -56,6 +56,6 @@ npm run dev
 <summary>📌 Instructions d'accès</summary>
 
 1. Cliquez sur l'image ci-dessus
-2. Si demandé, sélectionnez "Télécharger" ou "Lecture"
-3. Durée : ~1 minute (sans audio)
+
+2. Durée : ~1 minute (sans audio)
 </details>

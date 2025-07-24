@@ -39,3 +39,23 @@ npm run dev
 </a>
 <p></p>
 [➡ Voir toutes les captures en haute résolution](https://drive.google.com/drive/folders/1gnfjx-nzukADBR_2N9ZpPA9SG3YY9Y5m?usp=sharing)
+
+
+
+## 🎥 Démonstration Vidéo
+
+[![Voir la démonstration](https://drive.google.com/thumbnail?id=1fLRNU08NYnMCTKSTqWJGmsvwrg-VavE1&sz=w600)](https://drive.google.com/file/d/1fLRNU08NYnMCTKSTqWJGmsvwrg-VavE1/view)
+
+**Fonctionnalités montrées** :
+- ✨ Ajout de contacts
+- 🛠 Édition en un clic
+- 🔍 Recherche dynamique
+- 🗑 Suppression sécurisée
+
+<details>
+<summary>📌 Instructions d'accès</summary>
+
+1. Cliquez sur l'image ci-dessus
+2. Si demandé, sélectionnez "Télécharger" ou "Lecture"
+3. Durée : ~1 minute (sans audio)
+</details>

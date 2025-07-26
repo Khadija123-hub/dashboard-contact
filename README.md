@@ -59,3 +59,9 @@ npm run dev
 
 2. Durée : ~1 minute (sans audio)
 </details>
+
+
+## 🎥 Démo Vidéo
+
+➡️ [Clique ici pour voir la vidéo de démonstration](https://drive.google.com/file/d/1usPP2aiBcKZI4v4rj6cJkK6-Iimki9kM/view?usp=sharing)
+

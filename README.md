@@ -43,7 +43,5 @@ npm run dev
 </details>
 
 
-## 🎥 Démo Vidéo
 
-➡️ [📎 Lien direct vers la vidéo](https://drive.google.com/file/d/1usPP2aiBcKZI4v4rj6cJkK6-Iimki9kM/view?usp=sharing)
 
